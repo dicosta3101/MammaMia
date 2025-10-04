@@ -1,5 +1,5 @@
-# static.py
-
+HTML = """
+howtosetupmammamiaaaddininorder to creater a own server""""""
 HTML = """
 <!DOCTYPE html>
 <html>
